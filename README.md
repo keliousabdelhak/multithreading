@@ -1,2 +1,2 @@
 # multithreading
-multithreading with python 
+Multithreading with python 
